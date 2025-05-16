@@ -1,17 +1,118 @@
 ---
-title: "Primeiro Post"
-date: 2025-05-13
-draft: false
-tags: ["hugo", "blog"]
-description: "Meu primeiro post no blog!"
+title: "Como Criar Conta no MIT App Inventor e Iniciar Seu Primeiro Projeto"
+date: 2025-05-14
+description: "Aprenda como criar uma conta gratuita no MIT App Inventor e iniciar seu primeiro projeto em branco. Tutorial passo a passo ideal para iniciantes."
+tags: ["MIT App Inventor", "Programação Mobile", "Desenvolvimento Android", "No Code", "Tutorial Iniciante"]
+categories: ["Tutoriais"]
+cover:
+  image: "/img/mit-app-inventor-setup.jpg"
+  alt: "Tela inicial do MIT App Inventor"
+  caption: "Interface do MIT App Inventor para novos projetos"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et dolor feugiat, pulvinar magna ac, dapibus est. In sed quam nec est dignissim viverra. Pellentesque imperdiet erat vel condimentum molestie. Vivamus id ante leo. Nunc non nibh tincidunt, gravida justo in, volutpat est. In nec egestas mi, imperdiet imperdiet mi. Fusce et congue mi. Aenean a massa euismod, laoreet nisi id, vestibulum massa. Proin ornare, turpis vel fringilla iaculis, ex quam feugiat est, id eleifend lacus ipsum ac felis. Vivamus semper gravida erat, a ornare nibh convallis in. Suspendisse tristique aliquam hendrerit. Cras neque nulla, congue id turpis sit amet, ullamcorper egestas enim. Nulla nec finibus nunc, sed pellentesque arcu. Morbi dictum porta dolor, eget dignissim lacus feugiat nec.
+## Introdução
 
-Etiam id metus eget diam porttitor interdum et a elit. Proin sollicitudin eget lectus iaculis pharetra. Morbi egestas laoreet ex. Donec id eleifend leo, ac porttitor lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sit amet condimentum tellus, eget porttitor turpis. Curabitur lobortis fringilla venenatis. Proin eleifend vitae massa blandit mollis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis egestas bibendum risus quis dapibus. Suspendisse faucibus finibus arcu, quis ornare erat pulvinar ac. Sed ex elit, varius a erat nec, lacinia tempor magna. Phasellus dapibus nunc sed sodales pellentesque.
+Se você quer criar aplicativos para Android ou iOS sem precisar aprender linguagens complexas de programação, o **MIT App Inventor** é uma excelente porta de entrada. Esta plataforma gratuita permite desenvolver apps de forma visual, usando blocos lógicos e uma interface drag-and-drop.
 
-Integer laoreet consectetur ipsum ut ultrices. Morbi vitae urna id leo tempor suscipit et in dui. Vestibulum et nunc at neque aliquam consequat. Ut vitae iaculis erat, vel maximus magna. Pellentesque ullamcorper mollis odio blandit hendrerit. Nulla urna nisi, sollicitudin at enim eget, mattis tincidunt arcu. Mauris sodales nisi sit amet sapien mattis porta. Maecenas in lobortis diam. Integer aliquet aliquet lacus, sed ultricies quam aliquam iaculis. Curabitur ullamcorper dictum neque et bibendum. Morbi id velit nec ligula finibus imperdiet. Vivamus vitae vestibulum magna, at ultrices enim. Etiam quis ultricies risus.
+Neste artigo, você aprenderá como criar sua conta e iniciar seu primeiro projeto no MIT App Inventor, pronto para ser testado no seu celular.
 
-Proin ut eros dolor. Cras nec felis pretium, blandit lacus id, placerat risus. Nullam lacinia luctus pulvinar. Ut congue lobortis libero, vitae finibus ante eleifend sed. Quisque luctus nec neque in vestibulum. Morbi tincidunt maximus justo, maximus pharetra eros condimentum at. Donec non risus a risus tristique tristique. Vivamus at tortor et elit viverra porta sit amet ac libero. Vestibulum dictum at augue vitae gravida. Morbi tincidunt id odio a dictum. Quisque tincidunt ex arcu. Morbi eget libero non justo pulvinar semper ut eu neque. Curabitur convallis, quam at placerat rutrum, lorem sem interdum tortor, in ultrices odio ante a lacus. Cras eget hendrerit erat. Nulla in tempus magna.
+---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dapibus dui lorem, sit amet finibus odio ultricies sit amet. Fusce ac ultrices mi, sed malesuada elit. Nunc ullamcorper ut ipsum ac semper. Vivamus cursus massa dapibus mauris egestas, sed vehicula turpis aliquam. Etiam convallis rutrum hendrerit. Aliquam condimentum lorem facilisis, auctor purus ut, malesuada nisi. Suspendisse potenti. Proin id risus in neque hendrerit suscipit. Sed luctus at sapien vel accumsan. Donec id est luctus, pellentesque diam vel, volutpat diam. Nulla facilisi. Maecenas augue libero, vehicula vitae laoreet in, luctus id tellus. Sed vel accumsan ligula. Ut dapibus ipsum sit amet tortor faucibus, vitae fermentum lectus posuere. Integer tristique semper ornare.
+## O que é o MIT App Inventor?
+
+O [MIT App Inventor](https://appinventor.mit.edu/) é uma ferramenta criada pelo Massachusetts Institute of Technology que permite a qualquer pessoa criar apps por meio de uma interface visual. É ideal para iniciantes, escolas técnicas, e projetos rápidos de prototipagem.
+
+---
+
+## Requisitos
+
+- Uma conta Google (Gmail)
+- Navegador (Chrome, Firefox, Edge, etc.)
+- Smartphone com Android ou iOS para testes (opcional, mas recomendado)
+
+---
+
+## Passo 1 – Acessando o site
+
+1. Acesse o site oficial: [https://appinventor.mit.edu](https://appinventor.mit.edu)
+2. Clique no botão **"Create apps!"** no canto superior direito.
+
+{{< figure src="/img/mit-app-inventor-setup.jpg" alt="Botão Create apps do MIT App Inventor" caption="Clique em 'Create apps!' para começar" >}}
+
+---
+
+## Passo 2 – Fazendo login com o Google
+
+Você será redirecionado para a página de login do Google. Faça login com a conta que deseja usar para salvar seus projetos.
+
+> ⚠️ **Importante**: o MIT App Inventor salva seus projetos automaticamente na nuvem, vinculados à sua conta Google.
+
+---
+
+## Passo 3 – Criando seu primeiro projeto
+
+Após o login:
+
+1. Clique em **"Start new project"**
+2. Digite um nome para o projeto, como `MeuPrimeiroApp` (sem espaços ou acentos)
+3. Clique em **OK**
+
+{{< figure src="/img/mit-app-inventor-setup.jpg" alt="Janela de novo projeto" caption="Digite um nome sem espaços e clique em OK" >}}
+
+---
+
+## Passo 4 – Conhecendo a interface
+
+Você será levado para a tela principal do editor, com duas abas importantes:
+
+- **Designer**: para montar a interface do app
+- **Blocks**: para programar a lógica com blocos visuais
+
+{{< figure src="/img/mit-app-inventor-setup.jpg" alt="Interface principal do MIT App Inventor" caption="Designer e Blocks são as áreas principais de edição" >}}
+
+Neste primeiro momento, seu projeto estará em branco. Isso é normal! A partir daqui, você poderá adicionar botões, campos de texto, listas e programar seus comportamentos.
+
+---
+
+## Passo 5 – Testando o app no celular
+
+Se quiser visualizar o app no seu celular:
+
+1. Baixe o app **MIT AI2 Companion** na Play Store ou App Store
+2. No MIT App Inventor, clique em **"Connect" > "AI Companion"**
+3. Escaneie o QR code usando o app no celular
+
+{{< figure src="/img/mit-app-inventor-setup.jpg" alt="Código QR de conexão" caption="Use o app MIT AI2 Companion para testar seu projeto em tempo real" >}}
+
+---
+
+## Conclusão
+
+Parabéns! Agora você está com sua conta criada e seu primeiro projeto em branco pronto para ser desenvolvido. A partir daqui, você pode começar a montar interfaces e adicionar lógica com blocos de programação.
+
+Nos próximos tutoriais, vamos mostrar como:
+
+- Adicionar itens em uma lista com TinyDB
+- Criar apps de cadastro simples
+- Trabalhar com variáveis e estruturas de decisão
+
+---
+
+## Dúvidas frequentes
+
+**Preciso instalar algo no computador?**  
+Não. Tudo é feito pelo navegador.
+
+**Funciona no iPhone?**  
+Sim. Mas no iOS, você só pode testar via QR Code no app Companion — não é possível instalar o APK.
+
+**Preciso saber programar?**  
+Não. O sistema usa blocos visuais, ideal para iniciantes.
+
+---
+
+## Gostou do conteúdo?
+
+Se esse tutorial te ajudou, compartilhe com outras pessoas que também querem começar a programar! 🚀
+
+---
